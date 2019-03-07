@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/thelinmichael/spotify-web-api-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spotify/android-auth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\loics\Desktop" />
